@@ -1,0 +1,13 @@
+{
+  "name": "鹿兒島家族自駕遊",
+  "short_name": "鹿兒島旅遊",
+  "description": "9.27—10.6 福岡・霧島・鹿兒島家族旅遊行程 App",
+  "lang": "zh-Hant",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "theme_color": "#0f766e",
+  "background_color": "#f5f1e8",
+  "icons": [{"src":"./icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
